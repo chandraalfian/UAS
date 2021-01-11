@@ -2,7 +2,7 @@
 # PACKAGE & MODULE
 **Tugas ini berdasarkan praktikum sebelumnya dengan struktur seperti ini:**
 
- ![struktur.png](/gambar/struktur.png)
+ ![struktur](https://user-images.githubusercontent.com/49095373/104214095-9f8c3f80-5469-11eb-9549-d2a4205e583e.png)
  
 * ``daftar_nilai.py`` berisi modul untuk  :
     * tambah_data
@@ -17,24 +17,24 @@
 * ``main.py`` berisi program utama (menu pilihan yang memanggil semua menu yang ada).
 * **Output tambah_data**
   
-  ![tambahdata.png](/gambar/tambahdata.png)
+ 
 
 * **Output daftar_nilai**
 
-  ![lihatnilai.png](/gambar/lihatnilai.png)
+ ![lihatnilai.png](/gambar/lihatnilai.png)
 
 * **Output ubah_data**
 
-  ![ubahdata.png](/gambar/ubahdata.png)
+ ![ubahdata.png](/gambar/ubahdata.png)
 
 * **Output Cari_data**
 
-  ![caridata.png](/gambar/caridata.png)
+ ![caridata.png](/gambar/caridata.png)
 
 * **Output Hapus_data**
 
-  ![hapusdata.png](/gambar/hapusdata.png)
+ ![hapusdata.png](/gambar/hapusdata.png)
 
 * **Output break**
 
-  ![out.png](/gambar/out.png)
+ ![out.png](/gambar/out.png)
